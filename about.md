@@ -4,12 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! 
 
-### More Information
+Data Scientist by trade, Astrophysicist by training, with experience in education and science communication. I love finding patterns and am constantly searching for the perfect formula for happiness. 
 
-A place to include any other types of information that you'd like to include about yourself.
+### Education
+
+Metis Data Science Bootcamp
+
+Graduating April 2018
+
+
+Whitman College
+
+Graduated May 2016
+
+Bachelors in Astronomy and Physics
 
 ### Contact me
 
 [kaitlinpuryear@gmail.com](mailto:kaitlinpuryear@gmail.com)
+
+(425)802-3413
