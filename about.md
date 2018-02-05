@@ -23,4 +23,4 @@ Whitman College
 
 [kaitlinpuryear@gmail.com](mailto:kaitlinpuryear@gmail.com)
 
-(425)802-3413
+(425) 802-3413
