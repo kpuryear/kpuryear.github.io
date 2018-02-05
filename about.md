@@ -11,15 +11,13 @@ Data Scientist by trade, Astrophysicist by training, with experience in educatio
 ### Education
 
 Metis Data Science Bootcamp
+- Graduating April 2018
 
-Graduating April 2018
 
 
 Whitman College
-
-Graduated May 2016
-
-Bachelors in Astronomy and Physics
+- Graduated May 2016
+- Bachelors in Astronomy and Physics
 
 ### Contact me
 
