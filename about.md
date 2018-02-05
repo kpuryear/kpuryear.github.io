@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello! 
 
-Data Scientist by trade, Astrophysicist by training, with experience in education and science communication. I love finding patterns and am constantly searching for the perfect formula for happiness. 
+I am a Data Scientist by trade, Astrophysicist by training, with experience in education and science communication. I love finding patterns and am constantly searching for the perfect formula for happiness. 
 
 ### Education
 
