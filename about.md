@@ -23,4 +23,6 @@ Whitman College
 
 [kaitlinpuryear@gmail.com](mailto:kaitlinpuryear@gmail.com)
 
+[linkedin.com/in/kaitlinpuryear](https://www.linkedin.com/in/kaitlinpuryear/)
+
 (425) 802-3413
