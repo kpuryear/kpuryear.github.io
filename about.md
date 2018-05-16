@@ -4,23 +4,17 @@ title: About
 permalink: /about/
 ---
 
-***Kaitlin Puryear***
---------------
+Hello! I'm Kaitlin! 
 
-Data-Driven Program Manager
--------------- 
-
-Hello! 
-
-I am a Data Scientist by trade, Astrophysicist by training, with experience in education and science communication. I love finding patterns and am constantly searching for the perfect formula for happiness.
+I enjoy working with data and making human connections. I am a Data Scientist by trade, Astrophysicist by training, with experience in education and science communication. I love finding patterns and am constantly searching for the perfect formula for happiness.
 
 ---   
 - Seattle, WA
 - (425) 802-3413
 - kaitinpuryear@gmail.com
-- kaitlinpuryear.com
-- linkedin.com/in/kaitinpuryear
-- github.com/kpuryear
+- [kaitlinpuryear.com](http://kaitlinpuryear.com)
+- [linkedin.com/in/kaitinpuryear](http://www.linkedin.com/in/kaitinpuryear)
+- [github.com/kpuryear](https://github.com/kpuryear)
 
 -------------------     
 
