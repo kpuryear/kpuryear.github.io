@@ -21,6 +21,7 @@ I am a Data Scientist by trade, Astrophysicist by training, with experience in e
 - kaitlinpuryear.com
 - linkedin.com/in/kaitinpuryear
 - github.com/kpuryear
+
 -------------------     
 
 Education
@@ -35,8 +36,9 @@ Education
     - Whitman College,  *Walla Walla WA*
 
 ----
+
 Experience
-----------
+---------
 
 **Associate Data Scientist**, *Metis Data Science Bootcamp*
 
@@ -67,6 +69,7 @@ Walla Walla, WA - Aug 2014 to May 2016
 - Taught general astronomy, statistics, and computer science concepts to a class of 50 students while establishing and managing astronomical observation nights.
 
 ----
+
 Technical Projects
 --------------------
 
@@ -96,6 +99,7 @@ Technical Projects
 - Tested 5 different models for categorical classification, then created a web application with flask and D3 visualizations to present the results.
 
 ----
+
 Skills and Tools
 ----------------------------------------
 PYTHON
