@@ -34,9 +34,20 @@ Education
 Experience
 ---------
 
-**Associate Data Scientist**, *Metis Data Science Bootcamp*
+**Data Engineer**, *Employentric*
 
-Seattle, WA - Jan 2018 to Current
+Remote, based in Stockholm - November 2018 to Current
+
+I work with a startup team to create an HR platform that generates intelligent surveys and provides resources to managers, allowing teams to connect with upper management in an organic way. 
+
+- Design and develop scalable data pipelines for incoming data from many different channels 
+- Build machine learning algorithms to determine themes from survey data 
+- Implement features and updates across the full stack 
+- Communicate across time zones with company founder in Sweden
+
+**Data Science Apprentice**, *Metis Data Science Bootcamp*
+
+Seattle, WA - Jan 2018 to April 2018
 
 - Designed and implemented Linear Regression, Random Forest, Naive Bayes, K- Nearest Neighbors, and Decision Tree models. 
 - Gained experience with Machine Learning, Unsupervised Learning, and Neural Networks.
